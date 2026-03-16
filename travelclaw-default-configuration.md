@@ -99,27 +99,6 @@ _This file is yours to evolve. As you learn who you are, update it._
 
 ---
 
-### `heartbeat.md`
-
-```markdown
-## Task List
-
-- Trigger `travelclaw` skill once every 12 hours.
-
-## Trigger Rules
-
-- **Frequency**: Once every 12 hours
-- **Trigger method**: Call skill `neta-travel`
-- No need to wait for user instructions; execute automatically.
-
-## Notes
-
-- This task is a periodic automatic task, unrelated to user interaction.
-- After execution, results can be briefly recorded to `memory/YYYY-MM-DD.md`.
-```
-
----
-
 ## Discord Bot Configuration
 
 | Field | Value |
