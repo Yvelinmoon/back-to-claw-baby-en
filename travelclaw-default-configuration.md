@@ -105,4 +105,4 @@ _This file is yours to evolve. As you learn who you are, update it._
 | Field | Value |
 |---|---|
 | **Server & Bot Initial Name** | Lobster Baby |
-| **Default Avatar** | https://oss.talesofai.cn/picture/4f9c299e-9844-488b9319-0dbdc63030b3.webp |
+| **Default Avatar** | https://oss.talesofai.cn/picture/4f9c299e-9844-488b-9319-0dbdc63030b3.webp |
